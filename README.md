@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/free-vector/data-inform-illustration-concept_114360-864.jpg?t=st=1724868555)]
 <h1 align="center">Hi 👋, Welcome to my Data-Driven World!</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭Current Focus :Driving impactful Data Analysis Projects aimed at streamlining business processes and generating actionable insights.
 
 - 🌱**Learning Journey** :Expanding expertise in Advanced SQL, mastering Power BI, refining Data Cleaning techniques in Excel, and delving into Machine Learning with Python.
