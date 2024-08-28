@@ -41,10 +41,7 @@
     </a>
 </p>
 
-    
-</p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cherubimbequin&show_icons=true&locale=en&layout=compact" alt="cherubimbequin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cherubimbequin&show_icons=true&locale=en" alt="cherubimbequin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shineselorm&show_icons=true&locale=en" alt="shineselorm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cherubimbequin&" alt="cherubimbequin" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shineselorm&" alt="shineselorm" /></p>
